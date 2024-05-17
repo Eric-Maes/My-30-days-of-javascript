@@ -2,8 +2,8 @@
 
 | Day | Topics |
 |--|--|
-| 01 | [Introduction](./README.md) |
-| 02 | [Data Types](02_Day_Data_Types/README.md) |
+| 01 | [Introduction](../01_Day_Introduction/README.md) |
+| 02 | [Data Types](./README.md) |
 
 ## 🎓️ Day 2
 
