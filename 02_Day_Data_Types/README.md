@@ -7,6 +7,8 @@
 
 ## 🎓️ Day 2
 
+### Exercises : Level 1
+
 1. Declare a variable named _challenge_ and assign it the initial value 'My 30 Days Of JavaScript'.
 2. Print the _challenge_ variable in the console using **console.log()**.
 3. Print the length of the _challenge_ variable in the console using **console.log()**.
@@ -32,5 +34,33 @@
 23. Use **match()** to find all the "a "s in the _challenge_ variable.
 24. Use the **concat()** method to merge "My 30 Days Of" and "JavaScript" into a single string, "My 30 Days Of JavaScript".
 25. Use the **repeat()** method to print the _challenge_ variable twice.
+
+### Exercises : Level 2
+
+1. Print the following statement using **console.log()** :
+```sh
+The quote 'There is no exercise better for the heart than reaching down and lifting people up.' by John Holmes teaches us to help one another.
+```
+2. Print the following quote from Mother Teresa using **console.log()** :
+```sh
+"Love is not patronizing and charity isn't about pity, it is about love. Charity and love are the same -- with charity you give love, so don't just give money but reach out your hand instead."
+```
+3. Check whether type '10' is exactly equal to 10. If not, make it exactly equal.
+4. Check if parseFloat('9.8') is equal to 10. If not, make it exactly equal to 10.
+5. Check if "on" is found in both the string "python" and the string "jargon".
+6. Check whether the word "jargon" is present in the sentence "I hope this course isn't full of jargon".
+7. Generate a random number between 0 and 100 inclusive.
+8. Generate a random number between 50 and 100 inclusive.
+9. Generate a random number between 0 and 255 inclusive.
+10. Access the characters in the "JavaScript" string using a random number.
+11. Use **console.log()** and escape characters to print the following pattern :
+```sh
+1 1 1 1 1
+2 1 2 4 8
+3 1 3 9 27
+4 1 4 16 64
+5 1 5 25 125
+```
+12. Cut out the string "because because because because because" in the following sentence: "You can't end a sentence with because because because because because is a conjunction" using **substr()**.
 
 [<< Day 1](../README.md)
