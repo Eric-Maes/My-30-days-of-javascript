@@ -20,3 +20,4 @@
 I am 22 years old.
 You are 20 years old.
 ```
+[Day 2 >>](./02_Day_Data_Types/README.md)
